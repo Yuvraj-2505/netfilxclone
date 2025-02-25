@@ -1,4 +1,4 @@
 # netfilxclone
-This is my first Git Repository.
+This is my first project.
 <br>
 Author-Yuvraj
